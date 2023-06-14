@@ -1,5 +1,5 @@
 # prodaja-laptopa
- Sistem za upravljanje zalihama - Projekat za predmet 'Informacioni Sistemi'
+ Sistem za upravljanje zalihama - IS
 
 
 ### PRISTUPNI PODACI:
